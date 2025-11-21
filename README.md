@@ -2,7 +2,7 @@
 
 ### Education
 - MA, Social Research and Analysis | Montclair State University (_expected May 2027_)
-- MS, Information Technology Management | Indiana University (_May 2021_)
+- MS, Information Technology Management | Indiana University-Bloomington (_May 2021_)
 - Post-Baccalaureate Coursework, Computer Science | DePaul University
 - BA, Sociology | University of South Florida
 
