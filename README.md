@@ -3,11 +3,11 @@
 ### Education
 - MA, Social Research and Analysis | Montclair State University (_expected May 2027_)
 - MS, Information Technology Management | Indiana University (_May 2021_)
-- Post-Baccalaureate Coursework, Computer Science | DePaul University (_2011-2012_)
-- BA, Sociology | University of South Florida (_August 2006_)
+- Post-Baccalaureate Coursework, Computer Science | DePaul University
+- BA, Sociology | University of South Florida
 
 ## Work Experience
-With 14 years of experience at an international accounting firm within the internal Technology Services department, I have developed a robust understanding of the importance of data in driving key decisions. Throughout my tenure, I have taken on various roles that focused on the strategic vision of collaborative platforms for our 4,000-person firm. My responsibilities included product ownership for several key applications used by our 40,000 client users. These experiences have equipped me with the skills to leverage data effectively in any decision-making process. In late 2025, I transitioned to full-time academic focus, learning applied Machine Learning to supplement my academic Data Science and R experience. My ultimate goal is to transition to full-time research work, focusing on bias and equity in Artificial Intelligence.
+With 14 years of experience at an international accounting firm within the internal Technology Services department, I have developed a robust understanding of the importance of data in driving key decisions. Throughout my tenure, I have taken on various roles that focused on the strategic vision of collaborative platforms for our 4,000-person firm. My responsibilities included product ownership for several key applications used by our 40,000 client users. These experiences have equipped me with the skills to leverage data effectively in any decision-making process. In late 2025, I transitioned to full-time academic focus, learning applied Machine Learning to supplement my academic Data Science and R experience. My ultimate goal is to transition to full-time research work, focusing the impact of Artificial Intelligence on inequality and the digital divide.
 
 ## This Portfolio
 This portfolio is designed to catalog my work during my Master of Arts in Social Research and Analysis program. My primary focus will be on utilizing secondary data sources to provide insightful analysis on various social issues. As my coursework progresses, I will also include examples of survey research, interviews, focus groups, and other data collection methodologies. This portfolio will serve as a comprehensive record of my academic journey and showcase my ability to apply research methodologies to impact social policy.
