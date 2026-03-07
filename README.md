@@ -1,7 +1,7 @@
 # Social Researcher
 
 ### Education
-- MA, Social Research and Analysis | Montclair State University (_expected Jan 2027_)
+- MA, Social Research and Analysis | Montclair State University (_expected Dec 2026_)
 - MS, Information Technology Management | Indiana University-Bloomington (_May 2021_)
 - Post-Baccalaureate Coursework, Computer Science | DePaul University
 - BA, Sociology | University of South Florida
