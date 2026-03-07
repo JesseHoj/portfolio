@@ -1,4 +1,4 @@
-# Social Researcher
+# Jesse Hojnoski | Research Portfolio
 
 ### Education
 - MA, Social Research and Analysis | Montclair State University (_expected Dec 2026_)
